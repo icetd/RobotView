@@ -8,7 +8,7 @@
 
 ```shell
 cd RobotView
-mkdir build
+mkdir build && cd build
 cmake ..
 
 then open the RobotView.sln
