@@ -3,6 +3,7 @@
 - Simple 3D ros host computer for windows
 - You can add more features. refer to [learnopengl](https://learnopengl.com/)
 - you can make a simple ros application using ros-serial. refer to [rosserial](https://wiki.ros.org/rosserial) 
+- It is an upgrade of [rosview](https://github.com/icetd/RosView)
 
 ## build
 
